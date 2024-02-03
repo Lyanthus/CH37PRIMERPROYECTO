@@ -1,2 +1,9 @@
-# CH37_PrimerProyecto
-Primer proyecto de Github
+# CH37 Primer Proyecto
+## Primer proyecto de Github 
+
+*Crear Repositorio
+*Clonar Repositorio
+*Modificar/agregar **archivos**
+*Sincronizar cambios 
+
+---
